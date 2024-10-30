@@ -26,4 +26,4 @@ In this project, we analyze the datasets related to orders,customers,restauranrs
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/mannelasya04/Zomata-Data-Analysis-Python.git
+   git clone https://github.com/mannelasya04/Zomato-Data-Analysis.git
